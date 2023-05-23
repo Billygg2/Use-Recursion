@@ -11,3 +11,6 @@ function rangeOfNumbers(startNum: number, endNum: number): number[] {
     return numbers;
   }
 }
+
+var ejemplo = rangeOfNumbers(1, 10);
+console.log(ejemplo);
